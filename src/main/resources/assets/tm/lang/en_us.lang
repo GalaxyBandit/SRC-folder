@@ -1,0 +1,11 @@
+
+//Items
+item.test_item.name=Test Item
+item.test.name=Test
+item.test_sludge.name=Test Sludge
+
+//Blocks
+tile.test_block.name=Block Of Testing
+
+//Tools
+tool.test_sword.name=Test Sword
